@@ -1,5 +1,5 @@
-### Hi there 👋
-Haliyah Tijani
+Hi there 👋
+I'm Haliyah Tijani
 Software Developer || Product Manager 
 
 I'm a Fullstack Developer that specializes in the use of web technologies revolving around the Javascript and python Ecosystem.
