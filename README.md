@@ -1,5 +1,5 @@
 ### Hi there 👋
-Software Developer || ReactJS Developer || JAMStack Enthusiast
+Software Developer || Product Manager 
 
 I'm a Fullstack Developer that specializes in the use of web technologies revolving around the Javascript and python Ecosystem.
 
@@ -12,7 +12,7 @@ Databases: MongoDB.
 Deployments: Heroku, Vercel, Netlify, Firebase.
 Frameworks: Express.
 Tools: Git, NPM, VSCode, Github Actions.
-Exploring: Figma, Canva, Agile.
+Exploring: Figma, Canva, Agile Methodology.
 I'm open to any opportunities that would make any positive impact in our world.
 
 How to reach me : haliyya460@gmail.com
