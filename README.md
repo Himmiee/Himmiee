@@ -15,6 +15,6 @@ Tools: Git, NPM, VSCode, Github Actions.
 Exploring: Figma, Canva, Agile.
 I'm open to any opportunities that would make any positive impact in our world.
 
-How to reach me : [haliyya460@gmail.com]
+How to reach me : haliyya460@gmail.com
 
 
