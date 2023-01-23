@@ -7,13 +7,14 @@ I'm a Fullstack Developer that specializes in the use of web technologies revolv
 
 Here are a few technologies I've been working with recently:-
 
-- Languages: HTML, CSS, Javascript, Typescript, React, NodeJS, Python and Django.
+- Languages: HTML, CSS, Javascript, React, NodeJS, Python and Django.
 - Libraries: React, React-Redux, React-Native.
 - Databases: MongoDB.
 - Deployments: Heroku, Vercel, Netlify, Firebase.
 - Frameworks: Express.
 - Tools: Git, NPM, VSCode, Github Actions.
 - Exploring: Figma, Canva, Agile Methodology.
+- Currently Learning: Typescript
 - I'm open to any opportunities that would make any positive impact in our world.
 
 How to reach me : haliyya460@gmail.com
