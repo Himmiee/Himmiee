@@ -1,6 +1,6 @@
 <p align="center"> Hi there 👋 <p/> 
 <h1 align="center"> I'm Haliyah Tijani </h1> 
-Software Developer || Product Manager 
+<p align="center">Software Developer || Product Manager </p>
 
 I'm a Fullstack Developer that specializes in the use of web technologies revolving around the Javascript and python Ecosystem.
 
