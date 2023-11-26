@@ -7,7 +7,7 @@ I'm a Web Developer that specializes in the use of web technologies revolving ar
 
 Here are a few technologies I've been working with recently:-
 
-- Languages: Javascript, Typescript ,React, NodeJS.
+- Languages: Javascript, Typescript ,ReactJS, NodeJS.
 - Libraries: React, React-Redux, React-Native.
 - Databases: MongoDB, Postgresql.
 - Deployments: Heroku, Vercel, Netlify, Firebase.
