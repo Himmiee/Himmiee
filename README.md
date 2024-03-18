@@ -14,7 +14,7 @@ Here are a few technologies I've been working with recently:-
 - Frameworks: Express.
 - Tools: Git, NPM, VSCode, Github Actions.
 - Exploring: Figma, Canva, Agile Methodology.
-- Currently Learning: NextJs
+- Currently Learning: AWS.
 - I'm open to any opportunities that would make any positive impact in our world.
 
 How to reach me : haliyya460@gmail.com
