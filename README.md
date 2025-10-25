@@ -11,7 +11,7 @@ Here are a few technologies I've been working with recently:-
 - Libraries: React, React-Redux, React-Native.
 - Databases: MongoDB, Postgresql.
 - Deployments: Heroku, Vercel, Netlify, Firebase.
-- Frameworks: Express.
+- Frameworks: Express, Vue.
 - Tools: Git, NPM, VSCode, Github Actions.
 - Exploring: Figma, Canva, Agile Methodology.
 - Currently Learning: AWS.
