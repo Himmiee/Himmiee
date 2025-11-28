@@ -2,12 +2,12 @@
 <h1 align="center"> I'm Haliyah Tijani </h1> 
 <p align="center">Software Developer || Product Manager </p>
 
-I'm a Web Developer that specializes in the use of web technologies revolving around the Javascript and python Ecosystem.
+I'm a Software Developer that specializes in the use of web technologies revolving around the Javascript and python Ecosystem.
 
 
 Here are a few technologies I've been working with recently:-
 
-- Languages: Javascript, Typescript,Python,NextJS, NodeJS.
+- Languages: Javascript, Typescript,Dart (Flutter),Python,NextJS, NodeJS.
 - Libraries: React, React-Redux, React-Native.
 - Databases: MongoDB, Postgresql.
 - Deployments: Heroku, Vercel, Netlify, Firebase.
