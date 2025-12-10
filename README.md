@@ -7,15 +7,24 @@ I'm a Software Developer that specializes in the use of web and mobile technolog
 
 Here are a few technologies I've been working with recently:-
 
-- Languages: Javascript, Typescript,Dart (Flutter),Python,NextJS, NodeJS.
-- Libraries: React, React-Redux, React-Native.
-- Databases: MongoDB, Postgresql.
-- Deployments: Heroku, Vercel, Netlify, Firebase.
-- Frameworks: Express, Vue.
-- Tools: Git, NPM, VSCode, Github Actions.
-- Exploring: Figma, Canva, Agile Methodology.
-- Currently Learning: AWS.
-- I'm open to any opportunities that would make any positive impact in our world.
+**Languages:** JavaScript, TypeScript, Python, Dart
+
+**Frameworks & Libraries:** 
+- Frontend: React, Next.js, Vue.js, React Native
+- Backend: Express.js, Node.js
+- Mobile: Flutter
+
+**Databases:** MongoDB, PostgreSQL
+
+**Cloud & Deployment:** Heroku, Vercel, Netlify, Firebase, AWS (learning)
+
+**Tools & Workflow:** Git, GitHub Actions, NPM, VS Code
+
+**Design Tools:** Figma, Canva
+
+**Methodologies:** Agile
+
+**I'm open to opportunities that make a positive impact in our world.**
 
 How to reach me : haliyya460@gmail.com
 
