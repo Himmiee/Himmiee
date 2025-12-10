@@ -24,6 +24,8 @@ Here are a few technologies I've been working with recently:-
 
 **Methodologies:** Agile
 
+**Currenty Learning:** AWS, SQL
+
 **I'm open to opportunities that make a positive impact in our world.**
 
 How to reach me : haliyya460@gmail.com
