@@ -2,8 +2,7 @@
 <h1 align="center"> I'm Haliyah Tijani </h1> 
 <p align="center">Software Developer || Product Manager </p>
 
-I'm a Software Developer that specializes in the use of web and mobile technologies revolving around the Javascript and python Ecosystem.
-
+I'm a Frontend Engineer specializing in building modern, responsive web applications and mobile applications using Flutter. I focus on creating intuitive, high-performance user experiences and enjoy turning ideas into scalable, production-ready digital products.
 
 Here are a few technologies I've been working with recently:-
 
@@ -16,7 +15,7 @@ Here are a few technologies I've been working with recently:-
 
 **Databases:** MongoDB, PostgreSQL
 
-**Cloud & Deployment:** Heroku, Vercel, Netlify, Firebase, AWS (learning)
+**Cloud & Deployment:** Heroku, Vercel, Netlify, Firebase, AWS
 
 **Tools & Workflow:** Git, GitHub Actions, NPM, VS Code
 
